@@ -1,5 +1,8 @@
 # Data Visualization
 
+
+![My image 2](img2.jpg)
+
 ## HEADER 1
 
 FDSFSDFDS
@@ -14,8 +17,8 @@ FDSFSDFDS
   * FDSFS
   * FDSFDS
   * DASDAS
-  
-![My Image 1](img1.jpg)
+
+![My image](img1.jpg)
 
 ####  HEADER 3
 
