@@ -1,7 +1,7 @@
 # Data Visualization
 
 
-![My image 2](image-pandas.png)
+![My image 2](https://www.focus.it/site_stored/imgs/0003/037/googlecarrtr2r9f1.630x360.jpg)
 
 ## HEADER 1
 
