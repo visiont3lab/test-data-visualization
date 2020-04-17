@@ -1,4 +1,4 @@
-# Data Visualization
+# Data Visualization Project2
 
 
 ![My image 2](img2.jpg)
