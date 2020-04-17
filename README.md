@@ -1,7 +1,7 @@
 # Data Visualization
 
 
-![My image 2](img2.jpg)
+![My image 2](image-pandas.png)
 
 ## HEADER 1
 
@@ -18,7 +18,7 @@ FDSFSDFDS
   * FDSFDS
   * DASDAS
 
-![My image](img1.jpg)
+![My image](image-pandas-pie.png)
 
 ####  HEADER 3
 
